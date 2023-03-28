@@ -5,7 +5,7 @@ Style properties like the font size, padding, text color, background color can b
 
 ### 🔖 Tech Stack
 
-The code base of this repo uses HTML, CSS, JavaScript <br> <br>
+The code base of this repo uses HTML, CSS, JavaScript. <br> <br>
 
 ### Setup
 
