@@ -24,4 +24,4 @@ The code base of this repo uses HTML, CSS, JavaScript. <br> <br>
 
 4. Start the project
 
-Please leave a star ⭐️
+Please leave a star ⭐️.
